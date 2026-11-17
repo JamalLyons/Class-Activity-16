@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "726196252378",
+    "project_id": "my-product-app-e359e",
+    "storage_bucket": "my-product-app-e359e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726196252378:android:9d772c3aae8a8ec9e03fe3",
+        "android_client_info": {
+          "package_name": "com.example.my_product_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1ZiJs4Xxdm9VwvflKxI2fwOb2l9Xzt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726196252378:android:bd2b9868ae0a7d8ae03fe3",
+        "android_client_info": {
+          "package_name": "edu.gsu.ica16.cloud_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1ZiJs4Xxdm9VwvflKxI2fwOb2l9Xzt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726196252378:android:fec493d091ae0d57e03fe3",
+        "android_client_info": {
+          "package_name": "edu.gsu.mad.cloud_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl1ZiJs4Xxdm9VwvflKxI2fwOb2l9Xzt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
